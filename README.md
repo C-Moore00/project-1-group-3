@@ -14,7 +14,7 @@
 # Based on the number of employers per district in the city of Toronto, the data helped to come to a conclusion that there is more job opportunities in Old Toronto district as compared to other districts. But, looking at the data and further analyzing it by looking at the number of educated people compared to number of employers, York wins .York wins in that the number of educated people isn't as large compared to number of employers thus a smaller ratio results. When the number of educated people isnt far too large than employers it means the chances for getting a job is higher and the competition isnt as high, but if the number of educated people is way more than employers, thus a higher ratio, it means the competition is higher thus less job opportunities or chances of being employed.
 
 
-#
+# Focusing on the student performance within schooling, the best district within Toronto is North York, followed by Etobicoke, East York / Toronto tied, and York. It is believed this analysis is flawed due to the immense diversity of the dataset, sourced from various sources, and its lacking coverage of the analysed area.
 
 
 
